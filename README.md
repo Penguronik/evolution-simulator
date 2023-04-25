@@ -1,5 +1,5 @@
 # Evolution Simulator
-A graphical evolution simulator I wrote in Python in grade 8 for the Toronto Science Fair. I was also selected to bring it to the Canada Wide Science Fair. The code is likely very messy but I uploaded it here for archival purposes.
+A graphical evolution simulator I wrote in Python in grade 8 for the Toronto Science Fair. I was picked as a gold medalist and also selected to bring it to the Canada Wide Science Fair. The code is likely very messy but I uploaded it here for archival purposes.
 
 ### Features:
 - Completely visualized with the TKinter library
